@@ -1,3 +1,3 @@
 # IcyTowerGame
 
-Very Simplified Implementation of Icy Tower Using C++ And OpenGL On Microsoft Visual Studio Ultimate 2013.
+Very Simplified Implementation of Icy Tower Using C++ And OpenGL
